@@ -9,5 +9,14 @@ main:
   - title: "Publications"
     url: /publications/
 
+<<<<<<< HEAD
+=======
+  - title: "People"
+    url: /people/
+
+  - title: "Research"
+    url: /Research/
+
+>>>>>>> 9c7e93c32af8b693703f493c435a3b3bbc024a28
   - title: "Gallery"
     url: /gallery/
