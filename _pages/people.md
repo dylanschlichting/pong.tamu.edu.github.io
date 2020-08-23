@@ -54,15 +54,7 @@ Alumni
 ### [Veronica Ruiz Xomchuck](https://vrx-.github.io)
 ![Postdoctoral Research Fellow](/images/vrx.jpg "Veronica Ruiz Xomchuck")
 
-<<<<<<< HEAD
-Veronica is now a postdoc at Florida Atlantic University.
-=======
-<<<<<<< HEAD
-Veronica is now a postdoc at Florida Atlantic University.
-=======
 Veronica is now a postdoc and Florida Atlantic University.
->>>>>>> 9c7e93c32af8b693703f493c435a3b3bbc024a28
->>>>>>> 96cbe0c3d81ff1efef1256b117ab308d4ca9a466
 
 ### [Lixin Qu](https://lixinqu.github.io/)
 ![Postdoctoral Research Fellow](/images/lixin.jpg "Lixin Qu")
@@ -99,21 +91,8 @@ East China Normal University
 
 Zhaoru is now an Associate Professor at Shanghai Jiao Tong University.
 
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 96cbe0c3d81ff1efef1256b117ab308d4ca9a466
 Kelly Cole
 
 ![Assistant Research Professor](/images/kelly.jpg "Kelly Cole")
 
-Kelly is now an Assistant Research Professor in the Civil and Environmental Engineering Department at the University of Maine.
-<<<<<<< HEAD
-=======
-=======
-### [Kelly Cole]()
-![Assistant Research Professor](/images/kelly.jpg "Kelly Cole")
-
 Kelly Cole is now an Assistant Research Professor in the Civil and Environmental Engineering Department at the University of Maine.
->>>>>>> 9c7e93c32af8b693703f493c435a3b3bbc024a28
->>>>>>> 96cbe0c3d81ff1efef1256b117ab308d4ca9a466

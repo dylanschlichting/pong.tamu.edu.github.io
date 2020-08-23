@@ -1,25 +1,14 @@
 ---
 permalink: /
-<<<<<<< HEAD
-title: ""
-=======
-<<<<<<< HEAD
-title: ""
-=======
+
 title: "Physical Oceanography Numerical Group"
->>>>>>> 9c7e93c32af8b693703f493c435a3b3bbc024a28
->>>>>>> 96cbe0c3d81ff1efef1256b117ab308d4ca9a466
+
 excerpt: "About me"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
-
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 96cbe0c3d81ff1efef1256b117ab308d4ca9a466
 
 What We Do
 =====
@@ -55,9 +44,3 @@ September 2018
 
 Tianxiang Gao has joined PONG to start his PhD. Tianxian received his B.S. in oceanography from Ocean University of China in 2014 and his M.S. in physical oceanography in 2017.
 ![PhD Student](/images/ronnie.jpeg "Tianxiang Gao")
-<<<<<<< HEAD
-=======
-=======
-Pong
->>>>>>> 9c7e93c32af8b693703f493c435a3b3bbc024a28
->>>>>>> 96cbe0c3d81ff1efef1256b117ab308d4ca9a466
