@@ -29,7 +29,8 @@ January 2020
 
 Dylan Schlichting has joined PONG to start his PhD. Dylan was an REU student with PONG in 2018 and received his B.S. in Civil Engineering from the University of Maine in 2019.
 
-![PhD Student](../images/dylan.jpg "Dylan Schlichting")
+
+<img src="https://dylanschlichting.github.io/pong.tamu.edu.github.io/images/dylan.jpg" alt="dylan" title="dylan" />
 
 June 2019
 
@@ -43,4 +44,5 @@ September 2018
 
 Tianxiang Gao has joined PONG to start his PhD. Tianxian received his B.S. in oceanography from Ocean University of China in 2014 and his M.S. in physical oceanography in 2017.
 
-![PhD Student1](../images/ronnie.jpg "Ronnie")
+
+<img src="https://dylanschlichting.github.io/pong.tamu.edu.github.io/images/ronnie.jpeg" alt="ronnie" title="ronnie" />
