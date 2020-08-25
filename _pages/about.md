@@ -19,7 +19,7 @@ June 2020
 
 Veronica Ruiz Xomchuck successfully defended her PhD thesis. Congratulations Veronica!
 
-![vrx rob](/images/vrx_rob.jpg "Vrx Rob")
+<img src="../images/vrx_rob.jpg" alt="vrx rob" title="Vrx Rob" />
 
 May 2020
 
