@@ -1,8 +1,6 @@
 ---
 permalink: /
-
 title: "Physical Oceanography Numerical Group"
-
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -43,4 +41,5 @@ Rob Hetland and most PONG members attended the Physics of Estuaries and Coastal 
 September 2018
 
 Tianxiang Gao has joined PONG to start his PhD. Tianxian received his B.S. in oceanography from Ocean University of China in 2014 and his M.S. in physical oceanography in 2017.
+
 ![ronnie](../images/ronnie.jpeg)
