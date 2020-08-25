@@ -86,22 +86,22 @@ This research, in collaboration with Dr. Tingting Zu, is focused on better under
 
 Particle Tracking Error
 =====
-![particle](../images/particle_tracking.png)
+![particle_tracking](../images/particle_tracking.png)
 Ongoing research, in collaboration with Dr. Kristen Thyng, is focused on the Lagrangian tracking errors due to temporal subsampling of numerical model output. Qualitatively, low temporal resolution will cause large tracking error, but we are trying to build a quantitative relation between those two factors. The preliminary result is that the missing energy ratio after subsampling will determine the tracking errors in a particle tracking simulation, which links the tracking error with the temporal resolution quantitatively. This research allows us to estimate better the errors in particle trajectories introduced by the choice of subsampling period which is helpful for properly setting up particle tracking simulations. The particle tracking tool is TracPy which is a Python wrapper of TRACMASS
 
 Baroclinic Instability in River Plumes
 =====
-![barolinic](../images/baroclinic_rp.png)
+![baroclinic_rp](../images/baroclinic_rp.png)
 This research, under the advisement of Dr. Robert Hetland, is focused on better understanding the effects of wind forcing on suppression of baroclinic instabilities in far-field plume. Realistic simulation of Pearl River indicated that the submesoscale structures of plume instability disappear during the downwelling and upwelling seasons. So we hypothesize that the energy inputted into plume by the wind will enhance the mixing in the upper layer of the ocean and hence suppress the growth rate of the baroclinic instabilities. Results from the idealized simulation using the shelf strait model shows the suppression of baroclinic instabilities with the increasing of wind speed.
 
 River Plume Prediction
 =====
-![Rpp](../images/rp_prediction.png)
+![rp_prediction](../images/rp_prediction.png)
 
 The goal of this study is to understand how the wind forcing mechanisms control the plume structure and evolution, which leads us to quantify temporal resolution of wind forcing required for accurate plume prediction. The primary finding is that the energy of high-frequency part of the wind is weak to control the mixing in a plume and hence insignificant to influence the plume structure and evolution. This research will help us to understand the importance of high-frequency information in the wind and to determine an appropriate temporal resolution of wind forcing for the plume simulation.
 
 Yellow Seas Warm Current
 =====
-![YS](../images/yellowsea.png)
+![yellowsea](../images/yellowsea.png)
 
 This study, under the guidance of Dr. Xiaopei Lin, is focused on the asymmetric structure of the continental shelf wave in the Yellow Sea and its impact on the westward shift of the Yellow Sea Warm Current (YSWC). YSWC is a winter intermittent current and exhibits the asymmetric response to the winter synoptic wind event. For the semienclosed double-shelf basin such as the Yellow Sea, the topographic connection at the end could cause the asymmetry of shelf wave. Our result shows that the evolution of the YSWC has a strong link with the propagation of the shelf wave, and the asymmetric characteristic of the upwind flow is caused by the asymmetric structure of the shelf wave because the current is constrained by the geostrophic balance.

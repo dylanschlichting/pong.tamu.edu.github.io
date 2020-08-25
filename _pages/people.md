@@ -87,7 +87,7 @@ Wenxia is now a postdoc professor at the State Key Laboratory of Estuarine and C
 East China Normal University
 
 ### [Zhaoru Zhang](http://ioo.sjtu.edu.cn/en/szTeachers/3589.html)
-![Associate Professor](../images/Zhaoru.jpg "Zhaoru Zhang")
+![Associate Professor](../images/zhaoru.jpg "Zhaoru Zhang")
 
 Zhaoru is now an Associate Professor at Shanghai Jiao Tong University.
 
