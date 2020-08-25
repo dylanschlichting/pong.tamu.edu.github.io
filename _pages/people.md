@@ -68,7 +68,7 @@ Arthur Ramos
 Arthur is now a junior research engineer, currently working in Europe.
 
 ### [Hui Wu](http://english.sklec.ecnu.edu.cn/Staff/WuHui)
-![Professor](../images/Hui.png "Hui Wu")
+![Professor](../images/hui.png "Hui Wu")
 
 Hui is now a professor at the State Key Laboratory of Estuarine and Coastal Research,
 East China Normal University
