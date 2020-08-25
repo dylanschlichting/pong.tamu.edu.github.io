@@ -19,7 +19,7 @@ June 2020
 
 Veronica Ruiz Xomchuck successfully defended her PhD thesis. Congratulations Veronica!
 
-![vrx rob](../images/vrx_rob.jpg )
+![vrx rob](/images/vrx_rob.jpg "Vrx Rob")
 
 May 2020
 
@@ -29,7 +29,7 @@ January 2020
 
 Dylan Schlichting has joined PONG to start his PhD. Dylan was an REU student with PONG in 2018 and received his B.S. in Civil Engineering from the University of Maine in 2019.
 
-![dylan](../images/dylan.jpg )
+![PhD Student](../images/dylan.jpg "Dylan Schlichting")
 
 June 2019
 
@@ -43,4 +43,4 @@ September 2018
 
 Tianxiang Gao has joined PONG to start his PhD. Tianxian received his B.S. in oceanography from Ocean University of China in 2014 and his M.S. in physical oceanography in 2017.
 
-![ronnie](../images/ronnie.jpeg )
+![PhD Student1](../images/ronnie.jpg "Ronnie")
