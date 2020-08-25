@@ -28,6 +28,7 @@ We have released a new package called [xroms](https://github.com/hetland/xroms),
 January 2020
 
 Dylan Schlichting has joined PONG to start his PhD. Dylan was an REU student with PONG in 2018 and received his B.S. in Civil Engineering from the University of Maine in 2019.
+
 ![dylan](../images/dylan.jpg)
 
 June 2019
